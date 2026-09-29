@@ -1,6 +1,6 @@
 # 用 Python 理財：打造加密貨幣實戰策略｜課程教材
 
-[![weekly](https://github.com/finlab-python/hahow-crypto-course/actions/workflows/weekly.yml/badge.svg)](https://github.com/finlab-python/hahow-crypto-course/actions/workflows/weekly.yml)
+[![weekly](https://github.com/Shun-8472/Crypto/actions/workflows/weekly.yml/badge.svg)](https://github.com/Shun-8472/Crypto/actions/workflows/weekly.yml)
 
 Hahow 課程 [用 Python 理財：打造加密貨幣實戰策略](https://hahow.in/cr/crypto-python) 的官方程式教材（2026 年更新版）。
 
@@ -23,26 +23,26 @@ Hahow 課程 [用 Python 理財：打造加密貨幣實戰策略](https://hahow.
 | 1 | 1-1 ~ 1-5 為什麼要投資加密貨幣、量化交易 | （觀念講解，沒有程式） | |
 | 2 | 2-1 ~ 2-4、作業 2-A1 ~ 2-A3 購買、轉帳、簡易投資 | （交易所實務，沒有程式） | |
 | 3 | 3-1 如何搭建 Python 雲端平台 | 請看 [3-2](3-2_python_basics.ipynb) 的 Colab 連結，第一次開啟就是在練習 3-1 的內容 | |
-| 3 | 3-2 Python 快速入門 | [3-2_python_basics.ipynb](3-2_python_basics.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/3-2_python_basics.ipynb) |
-| 3 | 3-3 Pandas 快速入門 | [3-3_pandas_basics.ipynb](3-3_pandas_basics.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/3-3_pandas_basics.ipynb) |
-| 3 | 作業 3-A1 加密貨幣價格分析 | [起始](3-A1_price_analysis.ipynb)、[解答](3-A1_price_analysis_solution.ipynb) | [起始](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/3-A1_price_analysis.ipynb)、[解答](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/3-A1_price_analysis_solution.ipynb) |
-| 4 | 4-1 ~ 4-7 雲端回測平台 I ~ VII（下載數據、買賣訊號、回測、模組化、最佳化、過擬合原理／圖表）＋停損停利補充 | [4-1_backtest_platform.ipynb](4-1_backtest_platform.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/4-1_backtest_platform.ipynb) |
-| 4 | 作業 4-A1 自行研發策略 | [4-A1_own_strategy.ipynb](4-A1_own_strategy.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/4-A1_own_strategy.ipynb) |
-| 5 | 5-1 ~ 5-4 趨勢策略研發、8 種趨勢策略、最佳化、驗證 | [5-2_trend_strategies.ipynb](5-2_trend_strategies.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/5-2_trend_strategies.ipynb) |
-| 5 | 5-5 MMI 濾網、5-6 Filter 打包 | [5-5_mmi_filter.ipynb](5-5_mmi_filter.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/5-5_mmi_filter.ipynb) |
-| 5 | 作業 5-A1 Market Meanness Index | [5-A1_mmi_filter.ipynb](5-A1_mmi_filter.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/5-A1_mmi_filter.ipynb) |
-| 5 | 5-7、5-8 Talib Strategy Builder 1、2 | [5-7_talib_strategy_builder.ipynb](5-7_talib_strategy_builder.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/5-7_talib_strategy_builder.ipynb) |
-| 5 | 作業 5-A2 Talib Strategy Builder | [5-A2_talib_strategy_builder.ipynb](5-A2_talib_strategy_builder.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/5-A2_talib_strategy_builder.ipynb) |
-| 6 | 6-1 Bitcoin Hash Rate | [6-1_hash_rate.ipynb](6-1_hash_rate.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/6-1_hash_rate.ipynb) |
-| 6 | 6-2 Puell Multiple | [6-2_puell_multiple.ipynb](6-2_puell_multiple.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/6-2_puell_multiple.ipynb) |
-| 6 | 作業 6-A1 用 Puell Multiple 設計存幣方式 | [6-A1_puell_multiple.ipynb](6-A1_puell_multiple.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/6-A1_puell_multiple.ipynb) |
-| 6 | 6-3 SOPR | [6-3_sopr.ipynb](6-3_sopr.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/6-3_sopr.ipynb) |
-| 6 | 作業 6-A2 交易所出入金策略研發 | [6-A2_exchange_flows.ipynb](6-A2_exchange_flows.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/6-A2_exchange_flows.ipynb) |
-| 7 | 7-1 風險報酬模型、7-2 HRP、7-3 Walk forward 資產配置 | [7-2_hrp_walk_forward.ipynb](7-2_hrp_walk_forward.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/7-2_hrp_walk_forward.ipynb) |
-| 7 | 7-4 Multi-asset Strategies | [7-4_multi_asset_strategies.ipynb](7-4_multi_asset_strategies.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/7-4_multi_asset_strategies.ipynb) |
-| 7 | 作業 7-A1 建立自己的投資系統 | [7-A1_own_portfolio.ipynb](7-A1_own_portfolio.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/7-A1_own_portfolio.ipynb) |
-| 8 | 8-1 策略監控、8-2 / 8-3 資產配置系統、8-4 串接 Binance API 自動下單 | [8-1_trading_portfolio.ipynb](8-1_trading_portfolio.ipynb) | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/8-1_trading_portfolio.ipynb) |
-| 8 | 8-5 Google Cloud Function、8-6 Cloud Scheduler | [8-5_cloud_function.ipynb](8-5_cloud_function.ipynb)＋[cloud_function/](cloud_function/)（部署範例） | [Colab](https://colab.research.google.com/github/finlab-python/hahow-crypto-course/blob/main/8-5_cloud_function.ipynb) |
+| 3 | 3-2 Python 快速入門 | [3-2_python_basics.ipynb](3-2_python_basics.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/3-2_python_basics.ipynb) |
+| 3 | 3-3 Pandas 快速入門 | [3-3_pandas_basics.ipynb](3-3_pandas_basics.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/3-3_pandas_basics.ipynb) |
+| 3 | 作業 3-A1 加密貨幣價格分析 | [起始](3-A1_price_analysis.ipynb)、[解答](3-A1_price_analysis_solution.ipynb) | [起始](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/3-A1_price_analysis.ipynb)、[解答](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/3-A1_price_analysis_solution.ipynb) |
+| 4 | 4-1 ~ 4-7 雲端回測平台 I ~ VII（下載數據、買賣訊號、回測、模組化、最佳化、過擬合原理／圖表）＋停損停利補充 | [4-1_backtest_platform.ipynb](4-1_backtest_platform.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/4-1_backtest_platform.ipynb) |
+| 4 | 作業 4-A1 自行研發策略 | [4-A1_own_strategy.ipynb](4-A1_own_strategy.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/4-A1_own_strategy.ipynb) |
+| 5 | 5-1 ~ 5-4 趨勢策略研發、8 種趨勢策略、最佳化、驗證 | [5-2_trend_strategies.ipynb](5-2_trend_strategies.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/5-2_trend_strategies.ipynb) |
+| 5 | 5-5 MMI 濾網、5-6 Filter 打包 | [5-5_mmi_filter.ipynb](5-5_mmi_filter.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/5-5_mmi_filter.ipynb) |
+| 5 | 作業 5-A1 Market Meanness Index | [5-A1_mmi_filter.ipynb](5-A1_mmi_filter.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/5-A1_mmi_filter.ipynb) |
+| 5 | 5-7、5-8 Talib Strategy Builder 1、2 | [5-7_talib_strategy_builder.ipynb](5-7_talib_strategy_builder.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/5-7_talib_strategy_builder.ipynb) |
+| 5 | 作業 5-A2 Talib Strategy Builder | [5-A2_talib_strategy_builder.ipynb](5-A2_talib_strategy_builder.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/5-A2_talib_strategy_builder.ipynb) |
+| 6 | 6-1 Bitcoin Hash Rate | [6-1_hash_rate.ipynb](6-1_hash_rate.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/6-1_hash_rate.ipynb) |
+| 6 | 6-2 Puell Multiple | [6-2_puell_multiple.ipynb](6-2_puell_multiple.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/6-2_puell_multiple.ipynb) |
+| 6 | 作業 6-A1 用 Puell Multiple 設計存幣方式 | [6-A1_puell_multiple.ipynb](6-A1_puell_multiple.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/6-A1_puell_multiple.ipynb) |
+| 6 | 6-3 SOPR | [6-3_sopr.ipynb](6-3_sopr.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/6-3_sopr.ipynb) |
+| 6 | 作業 6-A2 交易所出入金策略研發 | [6-A2_exchange_flows.ipynb](6-A2_exchange_flows.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/6-A2_exchange_flows.ipynb) |
+| 7 | 7-1 風險報酬模型、7-2 HRP、7-3 Walk forward 資產配置 | [7-2_hrp_walk_forward.ipynb](7-2_hrp_walk_forward.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/7-2_hrp_walk_forward.ipynb) |
+| 7 | 7-4 Multi-asset Strategies | [7-4_multi_asset_strategies.ipynb](7-4_multi_asset_strategies.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/7-4_multi_asset_strategies.ipynb) |
+| 7 | 作業 7-A1 建立自己的投資系統 | [7-A1_own_portfolio.ipynb](7-A1_own_portfolio.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/7-A1_own_portfolio.ipynb) |
+| 8 | 8-1 策略監控、8-2 / 8-3 資產配置系統、8-4 串接 Binance API 自動下單 | [8-1_trading_portfolio.ipynb](8-1_trading_portfolio.ipynb) | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/8-1_trading_portfolio.ipynb) |
+| 8 | 8-5 Google Cloud Function、8-6 Cloud Scheduler | [8-5_cloud_function.ipynb](8-5_cloud_function.ipynb)＋[cloud_function/](cloud_function/)（部署範例） | [Colab](https://colab.research.google.com/github/Shun-8472/Crypto/blob/main/8-5_cloud_function.ipynb) |
 | 8 | 作業 8-A1 建立自己的雲端自動化系統 | 以 [cloud_function/](cloud_function/) 為起點，修改 `main.py` 的策略 | |
 | 8 | 8-7 總結 | （沒有程式） | |
 
@@ -51,8 +51,8 @@ Hahow 課程 [用 Python 理財：打造加密貨幣實戰策略](https://hahow.
 需要 Python 3.11 ~ 3.13（Windows、macOS、Linux 皆可）。
 
 ```bash
-git clone https://github.com/finlab-python/hahow-crypto-course.git
-cd hahow-crypto-course
+git clone https://github.com/Shun-8472/Crypto.git
+cd Crypto
 python -m venv .venv
 source .venv/bin/activate        # Windows：.venv\Scripts\activate
 pip install -r requirements.txt
